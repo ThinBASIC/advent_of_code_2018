@@ -1,0 +1,2 @@
+*.tbasic eol=crlf diff
+*.tbasicu eol=crlf diff
